@@ -29,8 +29,10 @@ https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
 #EXTINF:-1, tvg-name="NHKWorld", tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png", NHK World-Japan
 https://nhkwlive-ojp.nhkworld.jp/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-#EXTINF:-1, tvg-id="翡翠台", tvg-name="TVB翡翠台", tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png", TVB翡翠台
+#EXTINF:-1, tvg-id="翡翠台", tvg-name="TVB翡翠台", tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png", 翡翠台
 https://cdn3.163189.xyz/live/fct/stream.m3u8
+#EXTINF:-1, tvg-id="翡翠台", tvg-name="TVB翡翠台", tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png", 翡翠台4K
+http://cdn.132.us.kg/live/fct4k/stream.m3u8
 #EXTINF:-1, tvg-id="TVB-PLUS",tvg-name="TVB PLUS", tvg-logo="https://live.fanmingming.com/tv/TVBPlus.png", TVB PLUS
 https://cdn.163189.xyz/live/tvbp/stream.m3u8
 #EXTINF:-1, tvg-id="BBC-News", tvg-name="BBC News", tvg-logo="https://live.fanmingming.com/tv/BBCWORLDNEWSASIA.png", BBC News
