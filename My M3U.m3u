@@ -1,0 +1,55 @@
+#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
+#EXTINF:-1, tvg-id="Sky-Sports-F1", tvg-name="Sky Sports F1", tvg-logo="https://i.postimg.cc/Hs1Jjw2H/Logo-Sky-Sport.png", Sky Sports F1
+https://stream1.freetv.fun/skysports-f1-fhd-3.ctv
+#EXTINF:-1, tvg-id="Sky-Sports-F1", tvg-name="Sky Sports F1", tvg-logo="https://i.postimg.cc/Hs1Jjw2H/Logo-Sky-Sport.png", Sky Sports F1
+http://cord-cutter.net:8080/25464931/30585186/35244?checkedby:alliptvlinks.com
+#EXTINF:-1, tvg-id="Sky-Sports-F1", tvg-name="Sky Sports F1", tvg-logo="https://i.postimg.cc/Hs1Jjw2H/Logo-Sky-Sport.png", Sky Sports F1
+https://7pal.short.gy/ssportsf1
+#EXTINF:-1, tvg-id="Sky-Sports-Main-Event", tvg-name="Sky Sports MAIN EVENT", tvg-logo="https://assets.livednow.com/logo/Sky-Sports-Main-Event.png", Sky Sports Main Event
+https://7pal.short.gy/SkSpMainE
+#EXTINF:-1, tvg-id="Sky-Sports-Premier-League", tvg-name="Sky Sports PREMIER LEAGUE", tvg-logo="https://assets.livednow.com/logo/Sky-Sports-Premier-League.png", Sky Sports Premier League
+https://7pal.short.gy/ssportspl
+#EXTINF:-1, tvg-id="Sky-Sports-Tennis", tvg-name="Sky Sports Tennis", tvg-logo="https://assets.livednow.com/logo/Sky-Sports-Tennis.png", Sky Sports Tennis
+https://7pal.short.gy/ssportstn
+#EXTINF:-1, tvg-id="Sky-Sports-Action", tvg-name="Sky Sports ACTION", tvg-logo="https://assets.livednow.com/logo/Sky-Sports-Action.png", Sky Sports Action
+https://7pal.short.gy/ssportsat
+#EXTINF:-1, tvg-id="Sky-Sports-Golf", tvg-name="Sky Sports GOLF", tvg-logo="https://assets.livednow.com/logo/Sky-Sports-Golf.png", Sky Sports GOLF
+https://7pal.short.gy/ssportsgf
+#EXTINF:-1, tvg-name="Astro Sports UHD", Astro Sports UHD
+https://7pal.short.gy/astrouhd
+#EXTINF:-1, tvg-id="Sky-News", tvg-name="Sky News", tvg-logo="https://i.ibb.co/8MBM4M1/skyn.png", Sky News
+https://d25w9q07b2mtmw.cloudfront.net/live/master_5.m3u8
+#EXTINF:-1, tvg-name="Bloomberg US", tvg-logo="https://i.ibb.co/Nn5x9Hq/bloom.jpg", Bloomberg US
+https://bloomberg-bloombergtv-1-gb.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1, tvg-id="BloombergTV",tvg-name="Bloomberg TV", tvg-logo="https://i.ibb.co/Nn5x9Hq/bloom.jpg", Bloomberg TV
+https://www.bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:-1, tvg-id="CNN",tvg-name="CNN International", tvg-logo="https://live.fanmingming.com/tv/CNN.png", CNN International
+https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
+#EXTINF:-1, tvg-name="CNN Fast", tvg-logo="https://live.fanmingming.com/tv/CNN.png", CNN Fast
+https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
+#EXTINF:-1, tvg-name="NHKWorld", tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png", NHK World-Japan
+https://nhkwlive-ojp.nhkworld.jp/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+#EXTINF:-1, tvg-id="翡翠台", tvg-name="TVB翡翠台", tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png", TVB翡翠台
+https://cdn3.163189.xyz/live/fct/stream.m3u8
+#EXTINF:-1, tvg-id="TVB-PLUS",tvg-name="TVB PLUS", tvg-logo="https://live.fanmingming.com/tv/TVBPlus.png", TVB PLUS
+https://cdn.163189.xyz/live/tvbp/stream.m3u8
+#EXTINF:-1, tvg-id="BBC-News", tvg-name="BBC News", tvg-logo="https://live.fanmingming.com/tv/BBCWORLDNEWSASIA.png", BBC News
+http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+#EXTINF:-1, tvg-id="BBC-News", tvg-name="BBC News Asia Pacific", tvg-logo="https://live.fanmingming.com/tv/BBCWORLDNEWSASIA.png", BBC News Asia Pacific
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+#EXTINF:-1, tvg-name="广东体育", tvg-logo="https://live.fanmingming.com/tv/广东体育.png", 广东体育
+https://stream1.freetv.fun/yan-dong-ti-yu-20.m3u8
+#EXTINF:-1, tvg-name="Nature Escape", NatureEscape
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/f7ed86a4-b8ac-38e0-a745-710077a95be6/5711200/manifest.m3u8
+#EXTINF:-1, tvg-name="Stingray Classica", StingrayClassica
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/5711200/manifest.m3u8
+#EXTINF:-1, tvg-id="無線新聞台", tvg-name="TVB无线新闻台", tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png", TVB无线新闻台
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+#EXTINF:-1, tvg-name="CCTV4K", tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png", CCTV4K
+http://36.105.100.208:35455/gaoma/cctv4k.m3u8
+#EXTINF:-1, tvg-id="CNA", tvg-name="CNA", tvg-logo="https://i.imgur.com/RIQE8kA.png", CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1, tvg-name="NHKBS4K", tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png", NHK BS 4K
+http://luong.utako.moe/bsp4k/index.m3u8
+#EXTINF:-1, tvg-id="凤凰卫视资讯", tvg-name="凤凰卫视资讯", tvg-logo="https://assets.livednow.com/logo/凤凰卫视资讯.png", 凤凰卫视资讯
+http://cdn3.163189.xyz/live/fhzx/stream.m3u8
