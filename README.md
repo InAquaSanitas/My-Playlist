@@ -1,5 +1,4 @@
 # My-Playlist
-# My Personal M3U Playlist
 
 This repository contains an **M3U playlist** that is for **personal use only**. The contents of the playlist are not intended for public sharing or distribution.
 
