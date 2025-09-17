@@ -15,12 +15,10 @@ https://7pal.short.gy/ssportstn
 https://7pal.short.gy/ssportsat
 #EXTINF:-1, tvg-id="Sky-Sports-Golf", tvg-name="Sky Sports GOLF", tvg-logo="https://assets.livednow.com/logo/Sky-Sports-Golf.png", Sky Sports GOLF
 https://7pal.short.gy/ssportsgf
-#EXTINF:-1, tvg-name="Astro Sports UHD", Astro Sports UHD
-https://7pal.short.gy/astrouhd
 #EXTINF:-1, tvg-id="Sky-News", tvg-name="Sky News", tvg-logo="https://i.ibb.co/8MBM4M1/skyn.png", Sky News
 https://d25w9q07b2mtmw.cloudfront.net/live/master_5.m3u8
 #EXTINF:-1, tvg-name="Bloomberg US", tvg-logo="https://i.ibb.co/Nn5x9Hq/bloom.jpg", Bloomberg US
-https://bloomberg-bloombergtv-1-gb.samsung.wurl.tv/manifest/playlist.m3u8
+https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 #EXTINF:-1, tvg-id="BloombergTV",tvg-name="Bloomberg TV Asia", tvg-logo="https://i.ibb.co/Nn5x9Hq/bloom.jpg", Bloomberg TV Asia
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1, tvg-id="CNN",tvg-name="CNN International", tvg-logo="https://live.fanmingming.com/tv/CNN.png", CNN International
@@ -55,3 +53,4 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 http://luong.utako.moe/bsp4k/index.m3u8
 #EXTINF:-1, tvg-id="凤凰卫视资讯", tvg-name="凤凰卫视资讯", tvg-logo="https://assets.livednow.com/logo/凤凰卫视资讯.png", 凤凰卫视资讯
 http://cdn3.163189.xyz/live/fhzx/stream.m3u8
+
